@@ -1,0 +1,29 @@
+# ===============================================
+#                    Length
+# ===============================================
+# Freedom units
+hand inch 4.0
+foot inch 12.0
+foot yard 0.333333333333333
+foot mile 5280.0
+mile light_year 1.70108e-13
+
+# SI units
+kilometer light_year 1.057e-13
+kilometer meter 1000
+kilometer mile 0.62137
+meter centimeter 100
+centimeter millimeter 10
+nanometer meter 10e-9
+picometer meter 10e-12
+inch centimeter 2.54
+Ångstrom meter 10e-10
+
+# ===============================================
+#                     Mass
+# ===============================================
+kilogram gram 1000
+gram milligram 1000
+pound gram 453.59237
+pound ounce 16
+ton pound 2000
